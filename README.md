@@ -1,2 +1,3 @@
 # Git_And_Github_Coursera
 E-Learning
+I am editing the README file. Adding some more details about the project description.
